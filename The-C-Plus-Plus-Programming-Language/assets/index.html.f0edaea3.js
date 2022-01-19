@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{sidebar:!1,footer:"\u539F\u4F5C\u8005\uFF1A Bjarne Stroustrup \u53C2\u8003\uFF1Ahttps://shenjun7792.github.io \u4E0A\u7684\u300AC++ \u7A0B\u5E8F\u8BBE\u8BA1\u8BED\u8A00\u300B",next:"/Introduction/README.md"},excerpt:"",headers:[],git:{},filePathRelative:"README.md"};export{t as data};

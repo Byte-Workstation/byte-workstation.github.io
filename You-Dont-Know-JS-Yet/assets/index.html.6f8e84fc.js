@@ -1,0 +1,1 @@
+const e={key:"v-55e20238",path:"/en-US/scope-closures/",title:"Scope & Closures",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/scope-closures/README.md"};export{e as data};

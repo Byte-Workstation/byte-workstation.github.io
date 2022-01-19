@@ -1,0 +1,1 @@
+const e={key:"v-0edb92bf",path:"/en-US/es-next-beyond/",title:"ES.Next & Beyond",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/es-next-beyond/README.md"};export{e as data};

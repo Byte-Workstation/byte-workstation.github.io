@@ -1,0 +1,1 @@
+const t={key:"v-13134a0f",path:"/en-US/types-grammar/ch1.html",title:"You Don't Know JS Yet: Types & Grammar - 2nd Edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/types-grammar/ch1.md"};export{t as data};
