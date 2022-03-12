@@ -1,1 +1,0 @@
-const t={key:"v-5425386f",path:"/get-started/toc.html",title:"You Don't Know JS Yet: Get Started - 2nd Edition",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Table of Contents",slug:"table-of-contents",children:[]}],git:{},filePathRelative:"get-started/toc.md"};export{t as data};

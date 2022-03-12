@@ -1,1 +1,0 @@
-const e={key:"v-2b3c4d76",path:"/scope-closures/",title:"\u4F5C\u7528\u57DF\u4E0E\u95ED\u5305",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"scope-closures/README.md"};export{e as data};
