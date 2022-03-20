@@ -1,0 +1,1 @@
+const e={key:"v-0d85526e",path:"/en-US/scope-closures/toc.html",title:"You Don't Know JS Yet: Scope & Closures - 2nd Edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Table of Contents",slug:"table-of-contents",children:[]}],git:{},filePathRelative:"en-US/scope-closures/toc.md"};export{e as data};

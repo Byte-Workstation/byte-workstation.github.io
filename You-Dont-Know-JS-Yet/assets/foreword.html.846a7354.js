@@ -1,0 +1,1 @@
+const e={key:"v-6dddf274",path:"/en-US/es-next-beyond/foreword.html",title:"You Don't Know JS Yet: ES.Next & Beyond - 2nd Edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/es-next-beyond/foreword.md"};export{e as data};
