@@ -1,0 +1,1 @@
+const e={key:"v-495e14a4",path:"/scope-closures/foreword.html",title:"Foreword",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"scope-closures/foreword.md"};export{e as data};

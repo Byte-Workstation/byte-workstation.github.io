@@ -1,1 +1,0 @@
-const e={key:"v-2cd82f9b",path:"/en-US/scope-closures/foreword.html",title:"Foreword",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/scope-closures/foreword.md"};export{e as data};

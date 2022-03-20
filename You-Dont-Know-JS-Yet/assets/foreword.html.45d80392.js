@@ -1,1 +1,0 @@
-const e={key:"v-3fe95a98",path:"/en-US/sync-async/foreword.html",title:"You Don't Know JS Yet: Async & Performance - 2nd Edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/sync-async/foreword.md"};export{e as data};
