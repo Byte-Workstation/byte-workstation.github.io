@@ -1,0 +1,1 @@
+const e={key:"v-6e28d7c8",path:"/en-US/objects-classes/",title:"Objects & Classes",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/objects-classes/README.md"};export{e as data};

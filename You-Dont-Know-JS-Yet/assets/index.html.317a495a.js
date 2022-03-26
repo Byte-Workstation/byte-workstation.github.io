@@ -1,0 +1,1 @@
+const t={key:"v-662e300c",path:"/sync-async/",title:"\u540C\u6B65\u4E0E\u5F02\u6B65",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"sync-async/README.md"};export{t as data};

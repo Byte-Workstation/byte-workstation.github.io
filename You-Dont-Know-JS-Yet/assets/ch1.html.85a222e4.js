@@ -1,0 +1,1 @@
+const t={key:"v-0cb2ff6c",path:"/en-US/sync-async/ch1.html",title:"You Don't Know JS Yet: Sync & Async - 2nd Edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/sync-async/ch1.md"};export{t as data};
