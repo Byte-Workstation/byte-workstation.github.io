@@ -1,0 +1,1 @@
+const e={key:"v-685637ea",path:"/en-US/objects-classes/foreword.html",title:"Foreword",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/objects-classes/foreword.md"};export{e as data};

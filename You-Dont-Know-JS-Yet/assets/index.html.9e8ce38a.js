@@ -1,0 +1,1 @@
+const e={key:"v-7c1a6266",path:"/en-US/",title:"",lang:"en-US",frontmatter:{next:"preface.md"},excerpt:"",headers:[{level:2,title:"Titles",slug:"titles",children:[]},{level:2,title:"License & Copyright",slug:"license-copyright",children:[]}],git:{},filePathRelative:"en-US/README.md"};export{e as data};

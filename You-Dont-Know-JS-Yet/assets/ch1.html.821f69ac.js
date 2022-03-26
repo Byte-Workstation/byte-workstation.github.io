@@ -1,1 +1,0 @@
-const e={key:"v-14cbb3b5",path:"/en-US/objects-classes/ch1.html",title:"You Don't Know JS Yet: Objects & Classes - 2nd Edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"en-US/objects-classes/ch1.md"};export{e as data};
