@@ -27,7 +27,7 @@
             align-items: center;
 
             z-index: 10;
-            clip-path: inset(0px 0px 0px 0px);
+            clip-path: inset(0px 100% 0px 0px);
         }
 
         .sun::after {
@@ -48,8 +48,9 @@
             opacity: 99%;
             backdrop-filter: blur(10vh);
             -webkit-backdrop-filter: blur(10vh);
-
             z-index: 20;
+
+            text-align: center;
         }
 
         .moon {
@@ -73,6 +74,15 @@
         }
     </style>
     <style>
+        a {
+            color: gray;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
         .footer {
             position: absolute;
             width: 100%;
@@ -86,9 +96,16 @@
             color: grey;
             font-size: 1vmin;
         }
+
         .footer * {
             color: grey;
-            text-decoration: none;
+        }
+
+        .links {
+            opacity: 80%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
     </style>
 
@@ -99,6 +116,11 @@
     <div class="sun"></div>
     <div class="moon"></div>
     <div class="sea">
+        <div class="links">
+            <a href="https://byte-workstation.github.io/You-Dont-Know-JS-Yet/">
+                You Don't Know JS Yet (book series) - 2nd Edition
+            </a>
+        </div>
         <div class="footer">Based on
             <a href="https://github.com/codingstartup/css-day-and-night">
                 codingstartup/css-day-and-night
@@ -109,12 +131,17 @@
 </body>
 
 <script>
+    if(localStorage.getItem('theme') == 'light'){
+        document.querySelector('.sun').style.clipPath = 'inset(0px 0px 0px 0px)'
+    }
     var swap = false
     window.addEventListener('click', (e) => {
         if (swap) {
             document.querySelector('.sun').style.clipPath = 'inset(0px 100% 0px 0px)'
+            localStorage.removeItem('theme')
         } else {
             document.querySelector('.sun').style.clipPath = 'inset(0px 0px 0px 0px)'
+            localStorage.setItem('theme','light')
         }
         swap = !swap
     })
